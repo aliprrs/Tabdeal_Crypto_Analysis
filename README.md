@@ -26,3 +26,9 @@ The provided dataset, in CSV format, encompasses transactions spanning one month
    - Recommend strategies for product improvements or new features targeting active or profitable user segments.
 
 This analysis serves to enhance Tabdeal's understanding of its user base and market dynamics, driving informed decision-making and strategic initiatives.
+
+**Included Files:**
+- **Dashboard File (.pbix):** Explore the interactive Power BI dashboard showcasing key insights derived from the analysis. Utilizing data connections, DAX measures, and advanced analytics, this dashboard provides a comprehensive overview of Tabdeal's user activity and market trends.
+- **PDF Version of Dashboard (.pdf):** For accessibility and easy viewing, a PDF version of the dashboard is provided.
+- **Code Notebook (.ipynb):** Dive into the analysis process with the accompanying Jupyter Notebook containing the code used for data cleaning, exploratory data analysis, user segmentation, trend analysis, and deriving insights and recommendations.
+- **Sample Data File (.csv):** A sample dataset in CSV format is included to provide a glimpse into the underlying data used for the analysis.
